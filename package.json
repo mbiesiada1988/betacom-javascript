@@ -1,0 +1,22 @@
+{
+  "name": "betacom-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbiesiada1988/betacom-javascript.git"
+  },
+  "author": "Mateusz Biesiada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbiesiada1988/betacom-javascript/issues"
+  },
+  "homepage": "https://github.com/mbiesiada1988/betacom-javascript#readme",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}

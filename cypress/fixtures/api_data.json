@@ -1,0 +1,14 @@
+{
+  "urlTrees": "/api/common/v1/library/trees",
+  "urlResources":  "/api/common/v1/library/resources",
+  "urlDetails": "/api/common/v1/library/resources/{resourceId}",
+  "urlRate":  "/api/common/v1/library/resources/{resourceId}/rating",
+  "urlPaths": "/api/common/v1/library/resources/{resourceId}/paths",
+  "paramsTrees": {"targetRole": "anonymous"},
+  "paramsResources": {"node": null, "sort": "externalId", "dir": "asc", "limit": 15},
+  "headers": {"X-Preferred-Language": "en-US"},
+  "trees": [
+    "Szkolenia Językowe",
+    "World Phenomena"
+  ]
+}
